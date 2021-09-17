@@ -3,6 +3,7 @@ background-color: #000000;
 }
 
 
+
 h1{font-size: 64px;
     text-align: center;
 padding: 10px;
@@ -30,26 +31,31 @@ color:#ffffff
 #red{background-color: #f00;
 text-align: right;
 color:#ffffff;
-padding:25px;
+padding: 10px;px;
 min-height: 150px;}
 
 #blue{background-color: #0000ff;
 text-align: left;
 color:#ffffff;
-padding:25px;
+padding:10px;
 min-height: 150px;}
 
-#yellow h2 p{background-color: #ffff00;
-text-align: right;
-color: #000000 ;
-padding:25px;
+#yellow p{background-color: #ffff00;
+padding:10px;
 min-height: 150px;
 text-shadow:#c7e2c7}
+
+#yellow p{color: #000000;
+text-align: right;}
+
+#yellow h2{background-color: #ffff00;
+    color:#000000;
+text-shadow: #c7e2c7;}
 
 #green{background: #008000;
 text-align: left;
 color:#ffffff;
-padding:25px;
+padding: 10px;
 min-height: 150px;}
 
 
