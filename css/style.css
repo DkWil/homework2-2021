@@ -9,7 +9,7 @@ h1{font-size: 64px;
 padding: 10px;
 color:#ffffff;}
 
-h2{font-size: 64px;
+h2{font-size: 32px;
     text-shadow: #808080;
 offset: 4px,4px,2px;
 padding:10px;
@@ -31,14 +31,20 @@ color:#ffffff
 #red{background-color: #f00;
 text-align: right;
 color:#ffffff;
-padding: 10px;px;
+padding: 10px;
 min-height: 150px;}
+
+#red h2{font-size: 32px;
+    text-shadow: #c7e2c7}
 
 #blue{background-color: #0000ff;
 text-align: left;
 color:#ffffff;
 padding:10px;
 min-height: 150px;}
+
+#blue h2{font-size: 32px;
+    text-shadow: #c7e2c7}
 
 #yellow p{background-color: #ffff00;
 padding:10px;
@@ -49,6 +55,7 @@ text-shadow:#c7e2c7}
 text-align: right;}
 
 #yellow h2{background-color: #ffff00;
+    font-size: 32px;
     text-align: right;
     color:#000000;
 text-shadow: #c7e2c7;}
@@ -58,6 +65,16 @@ text-align: left;
 color:#ffffff;
 padding: 10px;
 min-height: 150px;}
+
+#green h2{font-size: 32px;
+    text-shadow: #c7e2c7}
+
+footer{color:#ffffff;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+padding-bottom: 10px;
+padding-right: 10px;}
 
 
 
